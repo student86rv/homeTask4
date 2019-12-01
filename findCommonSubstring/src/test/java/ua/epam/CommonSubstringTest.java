@@ -1,4 +1,4 @@
-package com.company;
+package ua.epam;
 
 import org.junit.Test;
 import static org.junit.Assert.*;

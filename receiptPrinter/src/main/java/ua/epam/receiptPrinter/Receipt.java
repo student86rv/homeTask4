@@ -1,4 +1,4 @@
-package com.company;
+package ua.epam.receiptPrinter;
 
 import java.util.Date;
 
